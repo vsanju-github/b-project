@@ -1,1 +1,3 @@
 echo " i am new file"
+i am sanjay 
+i am gowda
